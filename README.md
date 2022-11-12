@@ -1,8 +1,6 @@
 # Covid-19-DashBoard Tableau
 
-# Business Intelligence , Data Analytics & Data Visualization
-
-Tableau project for analyzing Covid-19 data and visualizing the findings including
+# Tableau project for analyzing Covid-19 data and visualizing the findings including
 
 What are the total number of Confirmed cases in different nations?
 
